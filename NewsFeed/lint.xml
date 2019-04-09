@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="InflateParams">
+        <ignore path="src/com/example/newsfeed/CustomListAdapter.java" />
+    </issue>
+    <issue id="ViewHolder">
+        <ignore path="src/com/example/newsfeed/CustomListAdapter.java" />
+    </issue>
+</lint>
